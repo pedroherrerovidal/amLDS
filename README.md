@@ -24,6 +24,6 @@ To get started, run the example notebook ['amLDS_example'](amLDS_example.ipynb).
 To explore other properties and capabilities of amLDS check the ['amLDS_mixturesConcentration'](amLDS_mixturesConcentration.ipynb) notebook or run the performance script as python3 ['amLDS_Performance_DataDemands_ModelComparison.py'](amLDS_mixturesConcentration.ipynb).
 
 ## Copyrights and license
-This code has been released under the GNU AGPLv3 license. For the usage of modification of any content of this repository cite:
+This code has been released under the GNU AGPLv3 license. For the usage of modification of any of this repository content cite:
 
 [Pedro Herrero-Vidal, Dmitry Rinberg, Cristina Savin, "Across-animal odor decoding by probabilistic manifold alignment". bioRxiv, 2021](./misc/across-animal-odor-decoding-by-probabilistic-manifold-alignment.bib)
