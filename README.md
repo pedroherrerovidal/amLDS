@@ -4,7 +4,7 @@ This repository is the official implementation of aligned mixture of latent dyna
 
 amLDS is a probabilistic method to align neural responses and efficiently decode stimuli across animals. It learns independent mappings of different recordings into a shared latent manifold, where stimulus-evoked dynamics are similar across animals but distint across stimuli allowing for accurate stimulus decoding. 
 
-./misc/figs.png
+![](./misc/figs.png)
 
 A full description of the method can be found in the [preprint](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1).
 
@@ -26,4 +26,4 @@ To explore other properties and capabilities of amLDS check the ['amLDS_mixtures
 ## Copyrights and license
 This code has been released under the GNU AGPLv3 license. For the usage of modification of any content of this repository cite:
 
-\cite{ ./misc/across-animal-odor-decoding-by-probabilistic-manifold-alignment.bib }
+[Pedro Herrero-Vidal, Dmitry Rinberg, Cristina Savin, "Across-animal odor decoding by probabilistic manifold alignment". bioRxiv, 2021](./misc/across-animal-odor-decoding-by-probabilistic-manifold-alignment.bib)
