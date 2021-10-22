@@ -1,4 +1,4 @@
-# Across-animal odor decoding byprobabilistic manifold alignment (NeurIPS 2021)
+# Across-animal odor decoding by probabilistic manifold alignment (NeurIPS 2021)
 
 This repository is the official implementation of aligned mixture of latent dynamical systems (amLDS) published at NeurIPS 2021.
 
