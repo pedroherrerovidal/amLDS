@@ -2,7 +2,7 @@
 
 This repository is the official implementation of aligned mixture of latent dynamical systems (amLDS) published at NeurIPS 2021.
 
-amLDS is a probabilistic method to align neural responses and efficiently decode stimuli across animals. It learns independent mappings of different recordings into a shared latent manifold, where stimulus-evoked dynamics are similar across animals but distint across stimuli allowing for accurate stimulus decoding. 
+amLDS is a probabilistic method to align neural responses and efficiently decode stimuli across animals. It learns independent mappings of different recordings into a shared latent manifold, where stimulus-evoked dynamics are similar (identical) across animals but distint across stimuli allowing for accurate stimulus decoding. 
 
 ![](./misc/figs.png)
 
