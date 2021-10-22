@@ -26,7 +26,7 @@ To explore other properties and capabilities of amLDS check the ['amLDS_mixtures
 ## Copyrights and license
 This code has been released under the GNU AGPLv3 license. The code in this repository can be used noncommercially, if so cite as:
 
-'''
+'''bibtex
 @article {Herrero-Vidal2021.06.06.447279,
 	author = {Herrero-Vidal, Pedro and Rinberg, Dmitry and Savin, Cristina},
 	title = {Across-animal odor decoding by probabilistic manifold alignment},
