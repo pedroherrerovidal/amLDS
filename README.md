@@ -6,7 +6,7 @@ amLDS is a probabilistic method to align neural responses and efficiently decode
 
 ![](./misc/figs.png)
 
-A full description of the method can be found in the [preprint](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1).
+A full description of the algorithm can be found in the [preprint](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1).
 
 ## Requirements
 
